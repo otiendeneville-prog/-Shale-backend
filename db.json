@@ -34,7 +34,11 @@
       "id": 4,
       "title": "Nonni building",
       "description": "Basicallly the Noni building is in Nairobi in allsoaps and mostly th univesity students of KCA",
-      "date": "Monday December 7,2026"
+      "date": "Monday December 7,2026",
+      "city": "Kisumu",
+      "location": "Capital Factory, Anthem Room in Mombasa",
+      "attendance": "787",
+      "tech": "Python"
     }
   ]
 }
