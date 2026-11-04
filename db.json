@@ -8,7 +8,8 @@
       "city": "San Francisco",
       "location": "TechHub Downtown, Room 404",
       "attendance": 142,
-      "tech": "React"
+      "tech": "React",
+      "params": "Listen"
     },
     {
       "id": 2,
